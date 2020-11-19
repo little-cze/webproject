@@ -1,5 +1,4 @@
 import { createStore } from 'vuex'
-import {SOME_MUTATION} from "./exp";
 // const moduleA = {
 //
 // }
@@ -78,6 +77,7 @@ export default createStore({
                 setTimeout(()=>{
                     context.commit("increment")
                 },1000)
+                console.log(rej)
                 res();
             })
         },

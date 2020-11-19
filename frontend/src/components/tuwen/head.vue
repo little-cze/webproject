@@ -14,7 +14,7 @@
 </template>
 
 <script>
-import {useRoute,useRouter} from 'vue-router'
+import {useRouter} from 'vue-router'
 export default {
   name: "headWidget",
   methods: {
@@ -23,7 +23,6 @@ export default {
     }
   },
   setup(){
-    const route = useRoute();
     const router = useRouter();
     const search =(path)=>{
       router.push(path)
@@ -39,6 +38,7 @@ export default {
  .main{
    display: flex;
    padding: 5px 16px;
+     background-color: #fff;
  }
  .mid{
    flex: 1;

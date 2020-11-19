@@ -1,6 +1,6 @@
 <template>
 <div class="hea" v-if="!route.meta.showHead">
-  <headCom ></headCom>
+  <headCom></headCom>
   <bar></bar>
 </div>
 <!--  keep-alive -->
