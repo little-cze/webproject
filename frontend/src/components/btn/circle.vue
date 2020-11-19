@@ -2,14 +2,24 @@
 <div id="circle-btn">
   <div class="btn">
     <img src="../../assets/logo.png">
-    <button>Hover Me</button>
+    <button @click="demo">Hover Me</button>
   </div>
 </div>
 </template>
 
 <script>
 export default {
-name: "circle"
+name: "circle",
+    methods:{
+    demo(){
+        axios
+            .get('http://47.99.53.11/api/index')
+            .then(response => (console.log("success")))
+            .catch(function (error) { // 请求失败处理
+                console.log(error);
+            });
+    }
+    }
 }
 </script>
 

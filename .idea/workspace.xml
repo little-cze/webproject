@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c2fb072e-8fb4-4fff-b92a-11ffaa05af8f" name="Default Changelist" comment="" />
+    <list default="true" id="c2fb072e-8fb4-4fff-b92a-11ffaa05af8f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/components/btn/circle.vue" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/components/btn/circle.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/components/page/jingcai.vue" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/components/page/jingcai.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/api.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/api.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -140,7 +145,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/frontend/src/http" />
+    <property name="last_opened_file_path" value="D:/phpstudy/laravel" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -165,7 +170,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1605757961982</updated>
-      <workItem from="1605757963248" duration="6714000" />
+      <workItem from="1605757963248" duration="8380000" />
     </task>
     <servers />
   </component>
@@ -177,10 +182,15 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="301" y="305" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1605767940935" />
-    <state x="752" y="339" key="FileChooserDialogImpl" timestamp="1605758960167">
+    <state x="654" y="85" key="CommitChangelistDialog2" timestamp="1605773446885">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state x="654" y="85" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1605773446885" />
+    <state x="2672" y="339" key="FileChooserDialogImpl" timestamp="1605776774267">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
     <state x="752" y="339" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1605758960167" />
+    <state x="2672" y="339" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1605776774267" />
     <state width="1020" height="263" key="GridCell.Tab.0.bottom" timestamp="1605766454179">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
